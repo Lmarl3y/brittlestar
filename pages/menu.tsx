@@ -15,7 +15,7 @@ const MenuPage = () => {
     },
     {
       icon: <BiCoffee className="text-wine-red" size={32} />,
-      title: "Specialty Coffee",
+      title: "speciality Coffee",
       description: "Premium coffee beans, expertly prepared by our trained baristas."
     },
     {

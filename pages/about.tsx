@@ -13,7 +13,7 @@ const AboutPage = () => {
     },
     {
       icon: <FaCoffee className="text-wine-red" size={24} />,
-      title: "Specialty Coffee",
+      title: "speciality Coffee",
       description: "Premium coffee beans, expertly roasted and prepared by our trained baristas for the perfect cup every time."
     },
     {

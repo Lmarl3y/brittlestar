@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <title>Brittlestar | Wine Bar & Coffee House in Morecambe Bay</title>
-        <meta name="description" content="Relax at Brittlestar, a chilled wine bar and coffee house by the bay in Morecambe. Enjoy fine wines, specialty coffees, and a relaxed atmosphere with a sea view." />
+        <meta name="description" content="Relax at Brittlestar, a chilled wine bar and coffee house by the bay in Morecambe. Enjoy fine wines, speciality coffees, and a relaxed atmosphere with a sea view." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

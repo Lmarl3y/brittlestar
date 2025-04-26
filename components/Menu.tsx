@@ -111,7 +111,7 @@ const Menu = () => {
           <h2 className="text-3xl md:text-4xl font-bold mb-3 text-wine-red">Our Menu</h2>
           <div className="w-24 h-1 bg-wine-red mx-auto mb-6"></div>
           <p className="text-night max-w-3xl mx-auto text-lg opacity-80">
-            From specialty platters to light bites and beverages
+            From speciality platters to light bites and beverages
           </p>
         </motion.div>
 

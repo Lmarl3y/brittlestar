@@ -17,7 +17,7 @@ const About = () => {
           <h2 className="text-3xl md:text-4xl font-bold mb-3 text-wine-red">Our Story</h2>
           <div className="w-24 h-1 bg-wine-red mx-auto mb-6"></div>
           <p className="text-night max-w-3xl mx-auto text-lg opacity-80">
-            A place where fine wine meets specialty coffee, nestled along the beautiful Morecambe Bay.
+            A place where fine wine meets speciality coffee, nestled along the beautiful Morecambe Bay.
           </p>
         </motion.div>
 
@@ -47,7 +47,7 @@ const About = () => {
             <h3 className="text-2xl font-serif font-bold mb-6 text-wine-dark">Welcome to Brittlestar</h3>
             <p className="mb-4 text-night opacity-80">
               Established in 2020, Brittlestar is a unique destination that brings together our passion for exceptional wines 
-              and specialty coffee. Named after the starfish commonly found along the bay, our space is designed to be a 
+              and speciality coffee. Named after the starfish commonly found along the bay, our space is designed to be a 
               sanctuary of relaxation and indulgence.
             </p>
             <p className="mb-4 text-night opacity-80">
